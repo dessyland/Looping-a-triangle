@@ -1,0 +1,5 @@
+let star = "#";
+while (star.length <= 6) {
+  console.log(`${star}`);
+  star = star + "#";
+}
